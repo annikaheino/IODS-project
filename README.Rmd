@@ -1,0 +1,7 @@
+---
+title: "example file"
+output: html_document
+---
+In the course of Introduction to open data science in University of Helsinki you will understand the principles and advantages of using open research tools with open data and understand the possibilities of reproducible research. You will know how to use R, RStudio, RMarkdown, and GitHub for these tasks and also know how to learn more of these open software tools. You will also know how to apply certain statistical methods of data science, that is, data-driven statistics.(https://courses.helsinki.fi/fi/HYMY-909/125158217)
+
+My GitHub repository: https://github.com/annikaheino/IODS-project 
